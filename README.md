@@ -43,11 +43,4 @@ This project is a **Live Sentiment Analysis** tool that captures **audio and ima
 - Uses **BERT-based transformers** to extract emotions from text.
 - Determines sentiment based on contextual meaning rather than just word frequency.
 
----
-
-## 👨‍💻 Author
-- **Developer:** Your Name
-- **Contact:** your.email@example.com
-
-**Happy Coding! 🚀**
 
